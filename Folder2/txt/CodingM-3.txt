@@ -1,0 +1,9 @@
+IN CLASS 97
+IN this class i install python and how to use that in cmd type puthon3 to use
+python i lerned some if like
+
+if in 
+while loop - while will will stop only when are cammand is false
+input - it take data from user
+and we can not write numbers in python it need string so we do 
+str(number) to make number a string
